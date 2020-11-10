@@ -1,0 +1,4 @@
+﻿  LinkedList.cpp
+  UnitTest2.1.cpp
+C:\Users\ACER\source\repos\Program_2.1\Program_2.1\LinkedList.cpp(97,1): fatal error C1010: непредвиденный конец файла во время поиска предкомпилированного заголовка. Возможно, вы забыли добавить директиву "#include "pch.h"" в источник.
+C:\Users\ACER\source\repos\Program_2.1\UnitTest2.1\UnitTest2.1.cpp(54,1): fatal error C1010: непредвиденный конец файла во время поиска предкомпилированного заголовка. Возможно, вы забыли добавить директиву "#include "pch.h"" в источник.

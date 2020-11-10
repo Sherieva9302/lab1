@@ -1,0 +1,5 @@
+﻿  LinkedList.cpp
+  UnitTest2.1.cpp
+  Создание кода...
+C:\Users\ACER\source\repos\Program_2.1\Program_2.1\LinkedList.cpp(183,21): warning C4018: <: несоответствие типов со знаком и без знака
+  UnitTest2.1.vcxproj -> C:\Users\ACER\source\repos\Program_2.1\Debug\UnitTest2.1.dll
